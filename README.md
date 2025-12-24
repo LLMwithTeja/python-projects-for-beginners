@@ -114,13 +114,13 @@ Focus: Application-style thinking
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/LLMwithTeja/python-basic-projects.git
+   git clone https://github.com/LLMwithTeja/python-projects-for-beginners.git
    ```
 
 2. Navigate to the project folder
 
    ```bash
-   cd python-basic-projects
+   cd python-projects-for-beginners
    ```
 
 3. Run any project
